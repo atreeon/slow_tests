@@ -1,8 +1,4 @@
-# test_testing
+# slow_tests
 
-A new Flutter project.
-
-## Getting Started
-
-For help getting started with Flutter, view our online
-[documentation](https://flutter.io/).
+Slow tests, investigating the reasons why dart & flutter take 6+ seconds 
+to complete an individual test
